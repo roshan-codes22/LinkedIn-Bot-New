@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+chat_log.json
+transcript_faiss_index/
