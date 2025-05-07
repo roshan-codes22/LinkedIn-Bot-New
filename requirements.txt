@@ -6,3 +6,5 @@ langchain-groq
 langchain-huggingface
 transformers
 torch
+faiss-cpu==1.7.4
+sentence-transformers
